@@ -45,6 +45,8 @@ AI agents work with human-reviewed meta-modules: templates, skills, prompts, che
 
 Each module has inputs, outputs, constraints, compatibility rules, risk tags, version, owner, review status, and verification logic.
 
+Modules move through a lifecycle — draft, reviewed draft, generated, reviewed module, verified, published, deployed, updated or rolled back — before they reach production.
+
 ## Expert Network
 
 > Meta Qube connects founders with best experts
@@ -153,3 +155,5 @@ Meta Qube turns expert knowledge into reusable startup infrastructure.
 - We run operations
 - We connect founders with experts
 - We prepare startups for capital
+
+> Structure before speed. Operations before storytelling. Review before trust. Compatibility before scale. Runtime before promises. Capital follows evidence.
